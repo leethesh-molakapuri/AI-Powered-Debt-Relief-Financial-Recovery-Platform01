@@ -57,7 +57,7 @@ python -m pytest tests
 ```
 ============================= test session starts =============================
 platform win32 -- Python 3.13.6, pytest-9.1.1, pluggy-1.6.0
-rootdir: C:\Users\madda\OneDrive\Desktop\My-Projects\smartbridge\backend
+rootdir: C:\Users\leeth\OneDrive\Desktop\My-Projects\smartbridge\backend
 plugins: anyio-4.14.1
 collected 4 items
 
