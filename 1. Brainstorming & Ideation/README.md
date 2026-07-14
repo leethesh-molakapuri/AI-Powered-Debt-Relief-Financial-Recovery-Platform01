@@ -1,6 +1,6 @@
 # Phase 1: Brainstorming & Ideation
 
-This folder contains the ideation, problem definition, and customer empathy mappings for **BlogForge - AI Powered Debt Relief & Financial Recovery Platform**.
+This folder contains the ideation, problem definition, and customer empathy mappings for **finrelief - AI Powered Debt Relief & Financial Recovery Platform**.
 
 ---
 
