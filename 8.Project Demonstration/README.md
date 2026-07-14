@@ -29,3 +29,8 @@ Currently, users copy or download the generated AI hardship letter to print and 
 
 ### 4. Interactive Settlement Chatbot
 Incorporate a live chat agent fine-tuned on debt settlement regulations. Users can ask questions about handling collector calls, understanding legal terminology, and preparing for negotiations.
+
+### 5. The app
+https://ai-powered-debt-relief-financial-recovery-platform--scytherayal.replit.app/login 
+Use this to open the app and interact with the ai and the features
+
