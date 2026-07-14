@@ -34,3 +34,6 @@ Incorporate a live chat agent fine-tuned on debt settlement regulations. Users c
 https://ai-powered-debt-relief-financial-recovery-platform--scytherayal.replit.app/login 
 Use this to open the app and interact with the ai and the features.
 
+### 6. The demo video 
+The link provided shows the demo video : https://drive.google.com/file/d/1Q_pYyv12FAPxpVhAWHvuhbrkbyJQ_Pki/view?usp=sharing
+
